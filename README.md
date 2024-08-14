@@ -40,7 +40,7 @@ streamlit run app.py
 
 ### Interact with the Web Application
 
-Open the application in your web browser (usually at http://localhost:8501).
+Open the application in your web browser.
 
 Input the details of the flat (e.g., town, flat type, floor area, etc.).
 
